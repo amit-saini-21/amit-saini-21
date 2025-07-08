@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7CFC00&vCenter=true&width=435&lines=Hey!+I'm+Amit+Saini+%F0%9F%91%8B;CSE+Student+%7C+Dev+%7C+Coder+%F0%9F%92%BB;Loves+to+Build+Unique+Projects+%F0%9F%92%A1;Welcome+to+My+World+%F0%9F%8C%9F" alt="Typing SVG" />
 
-<h2 align="center">✨ I'm Amit Saini – Team Menber of Syntax Error 💙</h2>
+<h2 align="center">✨ I'm Amit Saini – Team Member of Syntax Error 💙</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Branch-CSE-blue?style=for-the-badge" />
